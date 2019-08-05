@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213146219354",
+    "firebase_url": "https://drivedemo-1d474.firebaseio.com",
+    "project_id": "drivedemo-1d474",
+    "storage_bucket": "drivedemo-1d474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213146219354:android:2a9cbb07ba8f1a9d",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.googledrivedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213146219354-84c3bldic9i8bqq248ql3lo6fta76d9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raywenderlich.googledrivedemo",
+            "certificate_hash": "eb541eec5e95cc13d8dd240c797f98b6c9155193"
+          }
+        },
+        {
+          "client_id": "213146219354-8o7jorielfser0o5dsh520ggm1qlf92e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD37kJBM2UdBe3KOUscthDlahGkBiBR8uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213146219354-8o7jorielfser0o5dsh520ggm1qlf92e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+#Tue Aug 06 00:24:15 IST 2019
+base.0=/Users/anand/Desktop/GoogleDrive-materials/GoogleDriveDemo/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

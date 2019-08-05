@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">213146219354-8o7jorielfser0o5dsh520ggm1qlf92e.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://drivedemo-1d474.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">213146219354</string>
+    <string name="google_api_key" translatable="false">AIzaSyD37kJBM2UdBe3KOUscthDlahGkBiBR8uw</string>
+    <string name="google_app_id" translatable="false">1:213146219354:android:2a9cbb07ba8f1a9d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD37kJBM2UdBe3KOUscthDlahGkBiBR8uw</string>
+    <string name="google_storage_bucket" translatable="false">drivedemo-1d474.appspot.com</string>
+    <string name="project_id" translatable="false">drivedemo-1d474</string>
+</resources>
